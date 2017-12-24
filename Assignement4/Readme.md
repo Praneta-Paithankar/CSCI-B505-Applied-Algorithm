@@ -4,6 +4,9 @@ Then,  create the Huffman Tree based on 32 characters (i.e.,  26 letters plusspa
 
 
 Make sure you can print out your code.  For example:
+
 e:  000
+
 a:  010
+
 f:  111 ...
