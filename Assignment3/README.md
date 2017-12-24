@@ -7,4 +7,6 @@ Output: 6 partitions
 3.  1 + 3 + 1
 4.  3 + 1 + 1
 5.  4 + 16.  1 + 4
+
+
 Problem 2: You are given a set of jobs.  Each job j has a start time sj and finish time fj.It  also  has  a  weight vj.   Two  jobs  are  compatible,  if  they do not overlap.  Goal is to find maximum weight subset of mutually compatible jobs.  Run your program on the two inputs provided.  
